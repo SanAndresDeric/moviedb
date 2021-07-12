@@ -11,7 +11,7 @@ Clone this repo on your local machine and install dependencies.
 ```bash
 git clone https://github.com/gfabia/moviedb
 cd moviedb 
-pipenv install requirements.txt
+pipenv install -r requirements.txt
 pipenv shell
 ```
 
